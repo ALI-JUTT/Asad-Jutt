@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=405DF7&background=000000&lines=OLD+IDS+CRACK)](https://git.io/typing-svg)
+
 # Asad-Jutt
 
 # Old Ids Cone
