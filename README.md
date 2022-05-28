@@ -25,4 +25,5 @@ rm -rf Asad-Jutt
 git clone https://github.com/ALI-JUTT/Asad-Jutt
 
 cd Asad-Jutt
-python3 Baba.py
+
+python3 Asad.py
